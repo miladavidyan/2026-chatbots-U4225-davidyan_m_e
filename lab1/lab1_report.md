@@ -13,7 +13,8 @@ Date of finished:
 
 **Тема:** Разработка Telegram-бота для расчета маркетинговых показателей с использованием LLM
 
-**Название проекта:** Marketing Metrics Bot
+**Название проекта:** Marketing Metrics Bot 
+@itmoftmi_dmee_bot
 
 ---
 
