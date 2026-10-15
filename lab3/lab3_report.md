@@ -1,4 +1,4 @@
-<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/88951325-5a92-4ef4-9f04-9fd8b330c9f5" />University: [ITMO University](https://itmo.ru/ru/)
+University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Vibe Coding: AI-боты для бизнеса](https://github.com/itmo-ict-faculty/vibe-coding-for-business)
 Year: 2025/2026
